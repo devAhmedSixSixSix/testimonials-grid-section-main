@@ -1,5 +1,5 @@
 <h1 align="center">
- Welcome! 👋 estimonials grid section.
+ Welcome! 👋 Testimonials grid section.
 </h1>
 
 <p align="center">
